@@ -1,0 +1,25 @@
+Create an Inventory Program that:
+
+1. Lists items in tbe inventory
+2. Allows a user to select an item and view the inventory count,
+- change the number of the inventory,
+- delete the item altogether,
+- or change the name.
+3. Create a new item and give the item an inventory count, and have this item now show up in the list of items you can select.
+4. Loops through until the user does not want to edit the list anymore.
+A couple of helpful suggestions for the Inventory Assignment -
+- your inventory only needs to consist of 3 - 6 items. (don’t spend a lot of time making a massive inventory)
+- You can use arrays, but I find it’s easier to use a hash. that what you can assign a key (the inventory item) and a value (the quantity). However, that could just be the way my brain works. so… do whatever works best for you.
+- Finally…
+… Break this down into manageable parts
+1. Create a list of items and get them to display
+2. celebrate and grab some coffee
+3. Create a way for the user to select/view an item
+4. Create a way for the user to delete the item
+5. Create a way for the user to edit the item
+6. celebrate again
+7. Create a way for a new item to be added
+8. Make that item show up in the inventory list
+9. celebrate and grab more coffee
+10. Make the program ask the user if they want to continue editing or exit, and allow them to terminate the program
+11. Celebrate and realize that you’re awesome.
